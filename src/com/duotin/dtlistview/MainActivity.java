@@ -11,7 +11,7 @@ import android.util.Log;
 public class MainActivity extends Activity {
 	
 	private DTListView mListView;
-	
+	private String s="develop";
 	private DTListViewAdapter mAdapter;
 
 	@Override
